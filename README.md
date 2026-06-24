@@ -76,9 +76,9 @@ Before opening a new issue, please check:
 - the troubleshooting guide
 - the documentation in `/docs`
 
-Commercial support and plugin information are available at:
+Download available at:
 
-https://eeoom.com
+[WordPress Plugin](https://wordpress.org/plugins/eeoom-source-of-trust/)
 
 ## Roadmap
 
